@@ -1,7 +1,26 @@
-version: 2
+
+version: 3
 updates:
-- package-ecosystem: pip
+ #Maintain dependencies for pip
+- package-ecosystem: "pip"
   directory: "/"
-  schedule:
-    interval: daily
-  open-pull-requests-limit: 10
+  schedule: 
+     interval: "daily"
+ 
+  #Maintain dependencies for github-actions 
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for npm
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for Composer
+  - package-ecosystem: "composer"
+    directory: "/"
+    schedule:
+      interval: "daily"
