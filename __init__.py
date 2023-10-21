@@ -1,2 +1,2 @@
-__author__ = 'Corey Petty'
+__author__ = 'Aisha Redl-Sherwood'
 name = "py-etherscan-api"
