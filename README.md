@@ -1,4 +1,4 @@
-# py-etherscan-api module
+in# py-etherscan-api module
 
 [![Build Status](https://secure.travis-ci.org/corpetty/py-etherscan-api.png?branch=master)](http://travis-ci.org/corpetty/py-etherscan-api) [![Join the chat at https://gitter.im/py-etherscan/Lobby](https://badges.gitter.im/py-etherscan/Lobby.svg)](https://gitter.im/py-etherscan/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -65,9 +65,3 @@ Jupyter notebooks area also included in each directory to show all examples
 - Add robust documentation
 - Add unit test suite
 - Add request throttling based on Etherscan's suggestions
-
-## Holla at ya' boy
-
-BTC: 16Ny72US78VEjL5GUinSAavDwARb8dXWKG
-
-ETH: 0x5E8047fc033499BD5d8C463ADb29f10f11165ed0
