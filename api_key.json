@@ -1,1 +1,1 @@
-{ "key" : "{{secrets.API_KEY}}" }
+{ "key" : "${{secrets.API_KEY}}" }
