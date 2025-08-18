@@ -1,2 +1,2 @@
 __author__ = 'Aisha Redl-Sherwood'
-name = "py-etherscan-api" Forked
+name = "mypy-etherscan-api, forked from "Core Petty's, 'py-etherscan-api'"
